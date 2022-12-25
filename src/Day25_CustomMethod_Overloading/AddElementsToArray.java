@@ -31,7 +31,7 @@ public class AddElementsToArray {
         System.out.println("--------------------------------------");
 
         char[] chars = {'A', 'B', 'C', 'D'};
-        chars = addChar(chars, 'E'); //{'A', 'B', 'C', 'D', 'E'}
+        chars = addChar(chars, 'E'); //{'A', 'Book', 'C', 'D', 'E'}
 
         System.out.println(Arrays.toString(chars));
 

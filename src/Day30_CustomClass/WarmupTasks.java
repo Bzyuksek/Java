@@ -112,6 +112,6 @@ public class WarmupTasks {
 					str = "ABCD123$%#@&456EFG!"
 				output:
 					list1: {1, 2, 3, 4, 5, 6}
-					list2: {A, B, C, D, E, F, G}
+					list2: {A, Book, C, D, E, F, G}
 					list3: {$, %, #, @, &, !}
  */

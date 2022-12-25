@@ -4,7 +4,7 @@ public class StaticBlock {
 
     public static void main(String[] args) {
 
-        System.out.println("Main Method");
+        System.out.println("Bed Method");
 
     }
 

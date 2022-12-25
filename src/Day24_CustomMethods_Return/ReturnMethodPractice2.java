@@ -11,13 +11,13 @@ public class ReturnMethodPractice2 {
         /*
             check the grade:
                 'A' ====> Excellent
-                'B' ====> Great
+                'Book' ====> Great
                 .....
          */
 
         if(str1.equals("A")){
             System.out.println("Excellent");
-        }else if(str1.equals("B")){
+        }else if(str1.equals("Book")){
             System.out.println("Great");
         }else if(str1.equals("C")){
             System.out.println("Good");
@@ -42,7 +42,7 @@ public class ReturnMethodPractice2 {
 
         }else{ // valid
 
-            result = (score >= 90) ? "A" :(score >= 80)? "B" :(score >= 70)? "C" :(score >= 60)? "D" : "F";
+            result = (score >= 90) ? "A" :(score >= 80)? "Book" :(score >= 70)? "C" :(score >= 60)? "D" : "F";
 
         }
 

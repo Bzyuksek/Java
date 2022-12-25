@@ -40,7 +40,7 @@ public class GradeCalculator {
 
 
         System.out.println("Total number of A: "+gradeOfA.size());
-        System.out.println("Total number of B: "+gradeOfB.size());
+        System.out.println("Total number of Book: "+gradeOfB.size());
         System.out.println("Total number of C: "+gradeOfC.size());
         System.out.println("Total number of D: "+gradeOfD.size());
         System.out.println("Total number of F: "+gradeOfF.size());

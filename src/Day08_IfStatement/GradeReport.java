@@ -30,7 +30,7 @@ public class GradeReport {
             System.out.println("Excellent");
         }
 
-        if(b) { // if the student made a B
+        if(b) { // if the student made a Book
             System.out.println("Great");
         }
 
